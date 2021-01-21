@@ -1,0 +1,24 @@
+# QT-SEARCH01
+Hãy cho biết cách sử dụng Google và các site khác để tìm kiếm thông tin sao cho hiệu quả 
+ 
+ # Group N018:  
+- Lưu Sỹ Hoàng - 17520511
+- Đặng Vĩnh Siêu - 17520982
+- Nguyễn Lê Duy Tấn - 16521800
+ 
+ # Giới thiệu:
+ Trong thời buổi công nghệ số hiện nay, mọi hoạt động tiếp cận thông tin hầu hết thông qua việc sử dụng các search engine (công cụ tìm kiếm) trên Internet. Một trong những search engine phổ biến nhất chính là Google, nơi phục vụ lên tới hàng tỉ lượt tìm kiếm mỗi ngày trên phạm vi toàn thế giới. Thế nhưng, việc tìm kiếm thông tin một cách hiệu quả và có phương pháp đóng vai trò hết sức quan trọng, đặc biệt là đối với những nhà nghiên cứu khoa học trong việc tìm kiếm các paper (bài báo) hội nghị, tạp chí quốc tế để làm nguồn tham khảo. Sau đây, nhóm chúng em xin liệt kê một số cách thông dụng nhất khi sử dụng Google áp dụng vào việc tìm kiếm các paper phục vụ cho mục đích nghiên cứu khoa học:
+ # 1. Sử dụng dấu " " để tìm kiếm nội dung từ khóa theo thứ tự mong muốn:
+ Giả sử ta muốn tìm kiếm nội dung mang tên Vehicle Tracking System, nếu ta đặt trong dấu ngoặc kép "Vehicle Tracking System" thì Google sẽ trả về các kết quả chứa nội dung đó theo đúng thứ tự ta gõ, còn ngược lại thì Google có thể trả về các kết quả có chưa các từ Vehicle, Tracking, System nhưng không theo thư tự như ta gọ ban đầu.
+ # 2. Sử dụng dấu - để loại trừ nội dung không muốn tìm tới:
+Giả sử ta muốn tìm kiếm các project về Vehicle Tracking System không sử dụng đến giao thức Wifi để truyền dữ liệu, ta có thể search trên Google là: Vecicle Tracking System -Wifi. Khi đó ta có thể tìm được các project Vehicle Tracking System sử dụng giao thức GSM hoặc LoraWAN để truyền dữ liệu chẳng hạn.
+ # 3. Sử dụng dấu : để tìm kiếm với 1 trang web cụ thể:
+ Ta có thể tìm kiếm các bài báo liên quan đến đề tài Vehicle Tracking System tại trang web ieeexplore.ieee.org cụ thể, bằng cách search trên Google như sau: Vehicle Tracking System :ieeexplore.ieee.org. Khi đó kết quả trả về sẽ là những link bài báo hội nghị hoặc tạp chí liên quan đến Vehicle Tracking System đều thuộc trang ieeexplore.ieee.org
+ # 4. Sử dụng dấu * để tìm kiếm phần còn lại của nội dung:
+ Để tìm hiểu xem việc thiết kế một Vehicle Tracking System thì cần những phần cứng gì, ta có thể lên search với cú pháp như sau: Vehicle Tracking System hardware * .Khi đó Google làm đầy phần nội dung cần tìm để cho ta biết cần những hardware nào để thiết kế với đề tài đó. 
+ # 5. Sử dụng từ OR để phân biệt các nôi dung tìm kiếm:
+ Vẫn về Vehicle Tracking System, giả sử ta đang phân vân việc code web cho đề tài này bằng framework NodeJS hay Django, ta có thể search trên Google là: Vehicle Tracking System NodeJS OR Django. Kết quả trả về bao gồm các link về đề tài dùng NodeJS riêng và link dùng Django riêng. Nếu ta không dùng từ OR thì kết quả trả về có thể có link trộn lẫn NodeJS và Django.
+ # 6. Sử dụng từ related để tìm các nội dung liên quan đến nội dung chính đang tìm kiếm:
+ Giả sử ta xác định mình sẽ dùng module GPS phần cứng tên là Ublox Neo 7 cho đề tài trên, nhưng ta muốn tìm hiểu thêm rằng có module phần cứng nào khác bên cạnh module Ublox Neo 7 có thể phục vụ tốt cho đề tài hay không, ta search với cú pháp: related:Ublox Neo 7.
+ # 7. Sử dụng chức năng Time Constraints:
+ Vẫn về đề tài Vehicle Tracking System, giả sử ta muốn tìm kiếm các nguồn tham khảo giới hạn trong 5 năm trở lại đây nhằm kiếm được tài liệu nào đó sử dụng công nghệ gần đây, ta làm các bước sau: Trên searching bar gõ Vehicle Tracking System, sau đó vào ô Công cụ góc phải bên dưới thanh bar -> Mọi lúc -> Phạm vi tùy chỉnh. Tại đây ban điền vào: Từ 1/1/2015 Tới 23/11/2020. 
